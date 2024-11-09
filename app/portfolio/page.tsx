@@ -1,4 +1,4 @@
-import Link from 'next/link';
+
 export default function Portfolio() {
     return (
       <div className="flex items-center justify-center mt-20 flex-col">
