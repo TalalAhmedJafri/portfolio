@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <div className="flex h-[80%]">
+    <div className="flex h-screen">
    <div className="w-1/2 ml-20 mt-80 flex flex-col" >
     <h1 className="text-7xl">Welcome to our <div className="-rotate-6"> <span className="bg-header">Website</span></div></h1> 
     <p className="pt-14 pr-40 font-semibold">
