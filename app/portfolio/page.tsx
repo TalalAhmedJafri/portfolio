@@ -1,7 +1,7 @@
 
 export default function Portfolio() {
     return (
-      <div className="flex items-center justify-center mt-20 flex-col">
+      <div className="flex items-center justify-center mt-20 flex-col h-screen">
      <div className="-rotate-6">
         
         <h1 className="text-6xl font-serif font-extrabold bg-header ">Portfolio</h1>
